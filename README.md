@@ -2,22 +2,29 @@
 
 ## 📌 Project Overview
 
-This project is a colorful and interactive To-Do Web Application developed as part of the SkillCraft Technology Web Development Internship.
+This project is a modern and interactive To-Do Web Application developed as part of the SkillCraft Technology Web Development Internship Program.
 
-The application enables users to manage tasks efficiently by adding, editing, deleting, scheduling, and marking tasks as completed.
+The application helps users organize their daily tasks efficiently by allowing them to add, edit, delete, schedule, and mark tasks as completed through a clean and user-friendly interface.
 
 ---
 
 ## 🚀 Features
 
-- Add New Tasks
-- Edit Existing Tasks
-- Delete Tasks
-- Mark Tasks as Completed
-- Set Date & Time
-- Responsive Design
-- Modern Colorful UI
-- Doodle Inspired Interface
+✅ Add New Tasks
+
+✅ Edit Existing Tasks
+
+✅ Delete Tasks
+
+✅ Mark Tasks as Completed
+
+✅ Set Date & Time for Tasks
+
+✅ Organize Tasks Effectively
+
+✅ Responsive Design
+
+✅ Modern Colorful User Interface
 
 ---
 
@@ -60,28 +67,36 @@ SCT_WD_4/
 
 ---
 
-## ▶ How to Run
+## ▶️ How to Run
 
-1. Download or Clone Repository
-2. Open Project Folder in VS Code
-3. Run index.html using Live Server
-4. Manage Your Tasks
+1. Download or Clone the Repository.
+2. Open the project folder in VS Code.
+3. Open index.html using Live Server.
+4. Start managing your tasks.
 
 ---
 
 ## 🎯 Learning Outcomes
 
 - DOM Manipulation
-- CRUD Operations
 - Event Handling
-- UI/UX Design
+- CRUD Operations
 - JavaScript Fundamentals
+- Responsive Web Design
+- Git & GitHub Workflow
 
 ---
 
-## 👩‍💻 Author
+## 🌟 Key Functionalities
 
-Sindhu Ramagiri
+- Task Creation
+- Task Editing
+- Task Deletion
+- Completion Tracking
+- Date & Time Scheduling
+- Dynamic UI Updates
 
-GitHub:
-https://github.com/sindhuramagiri-16
+---
+
+
+
